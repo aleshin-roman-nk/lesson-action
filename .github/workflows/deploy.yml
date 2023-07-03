@@ -16,4 +16,4 @@ jobs:
           username: root
           password: zked0babvp
           script: |
-            echo "Hello, world!"
+            docker
