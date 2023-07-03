@@ -17,3 +17,4 @@ jobs:
           password: zked0babvp
           script: |
             docker
+            docker images
