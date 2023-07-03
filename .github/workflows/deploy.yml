@@ -14,6 +14,6 @@ jobs:
         with:
           host: 45.131.41.112
           username: root
-          key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDS5ItwFZ7LNvg+1u3oiuR2DD4GQ92nD7rph/tblzWM3uFm/xv+jk71wRTrLQgXq3clWktuPc4idOpBeujUv7JuW7KfONr5YGEfQQnE8kubZN4lhrXfT+cH3AMV6vsvmURyHvVYqOF9IdtXT+gsRl9TmqJEVkCjvOuSAfsU5c0KwV4OR2xl6XZiHd26aIyyb/jyAG1tqYE72t7e1IowWva2CNb+ngjZsf7rfyFPBRzbj+G6AcjAz6kRaUxtxv+xWGpCbzOxY60pqzSLLZXkO/yKp3pzsgWTUxnWqPoXEN0xzBXGwKTk64kENdCLpM1LvKlNrhbnE1gywSYo4OxTNfyZN2CfP7ahPieNM6Z92QYz4iyTaZUEuV5KXL8RPMEeVxqu9EmhFwqhFfjWBCtl7PuFC0LgrRKgkaOupLEZLAS1Jzw9v9f/k4LDeQusDDDSyzJSWfjhxGnQU0ZtkshmNfAQ1HnYF6+DruY403O6g1fxZO1POyVkrXsKWqjuGFdawyef6ZSKCsIlv7ON7poxdjeRurywskvR0RFzP0ytuoPuNqd6KQc2tvsClKCs4HxuTdCMDyPzl2DyhSLXTOt2PNNWw1sjm7zYIu4Pc7a25fyZW6iV09XsXgO7CRJ5Re5uyOctENlGBKkNgCo8S4xYtaYV0FjIqTkIJCzxgTYOHui6MQ== aleshin.roman.nk@gmail.com
+          password: zked0babvp
           script: |
             echo "Hello, world!"
